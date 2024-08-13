@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#cuerpo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.character-card {
+    margin: 10px;
+    width: 18rem;
+}
+
+.card-body {
+    background-color: #ffffff;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    text-align: center;
+}
